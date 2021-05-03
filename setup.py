@@ -1,6 +1,7 @@
 import tkinter as tk
 import uuid
 import webbrowser
+import numpy
 
 menu_inicial = tk.Tk()
 menu_inicial.title("By:FilipePagodeiro")
